@@ -1,14 +1,8 @@
-# Automation Framework
-
-This is a Selenium + TestNG based automation framework built in Java.
-The goal was to keep it simple, maintainable, and scalable while covering common real-world needs like data-driven testing, reporting, and CI integration.
-
----
 
 # Robust Automation Framework
 
-UI Test Automation Framework built using **Java + Selenium + TestNG**, designed for scalability and maintainability.
-
+This is a Selenium + TestNG based automation framework built in Java.
+The goal was to keep it simple, maintainable, and scalable while covering common real-world needs like data-driven testing, reporting, and CI integration.
 ---
 
 ## Tech Stack
