@@ -1,0 +1,305 @@
+2026-04-29 12:26:35 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-04-29 12:26:35 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-04-29 12:26:41 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-04-29 12:26:42 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-04-29 13:30:01 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-04-29 13:30:01 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-04-29 19:59:40 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-04-29 19:59:40 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-04-29 19:59:45 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-04-29 19:59:45 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-04-29 20:00:37 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-04-29 20:00:37 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-04-29 20:00:39 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-04-29 20:00:39 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-04-29 20:03:46 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-04-29 20:03:46 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-04-29 20:03:49 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-04-29 20:03:56 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-04-29 20:03:57 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-04-29 20:03:57 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-04-29 20:03:58 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-04-29 20:03:58 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-04-29 20:04:36 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-04-29 20:04:36 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-04-29 20:04:38 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-04-29 20:04:49 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-02 23:36:37 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-02 23:36:37 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-02 23:36:42 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-02 23:36:49 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 00:48:52 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 00:48:52 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 00:48:58 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 00:48:58 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 00:48:58 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 00:48:58 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 00:49:00 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 00:49:00 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 00:54:14 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 00:54:14 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 00:54:18 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 00:54:18 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 00:54:18 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 00:54:18 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 00:54:19 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 00:54:19 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 01:09:46 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 01:09:46 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 01:09:49 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 01:09:50 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 01:09:51 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 01:09:51 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 01:09:52 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 01:09:52 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 01:11:33 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 01:11:33 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 01:11:36 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 01:11:45 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 01:11:45 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 01:11:45 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 01:11:47 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 01:11:54 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 01:12:22 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 01:12:22 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 01:12:24 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 01:12:31 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 01:12:31 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 01:12:31 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 01:12:33 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 01:12:36 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 01:12:54 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 01:12:54 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 01:12:56 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 01:13:04 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 01:13:04 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 01:13:04 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 01:13:06 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 01:13:13 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 01:14:00 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 01:14:00 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 01:14:02 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 01:14:08 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 01:14:09 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 01:14:09 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 01:14:10 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 01:14:17 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 01:18:55 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 01:18:55 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 01:18:58 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 01:19:06 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 01:19:06 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 01:19:06 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 01:19:08 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 01:19:15 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 01:20:02 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 01:20:02 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 01:20:04 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 01:20:11 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 01:20:12 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 01:20:12 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 01:20:13 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 01:20:22 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 01:29:40 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 01:29:40 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 01:29:44 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 01:29:56 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 01:29:57 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 01:29:57 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 01:29:58 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 01:30:08 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 01:31:14 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 01:31:14 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 01:31:16 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 01:31:16 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 01:32:16 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 01:32:16 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 01:32:18 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 01:32:18 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 01:34:48 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 01:34:48 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 01:34:50 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 01:35:00 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 01:35:42 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 01:35:42 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 01:35:44 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 01:35:54 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:25:43 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:25:43 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:25:50 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:26:01 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:26:01 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:26:01 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:26:03 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:26:11 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:26:24 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:26:24 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:26:27 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:26:27 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:28:32 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:28:32 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:28:34 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:28:45 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:29:30 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:29:30 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:29:32 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:29:36 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:30:49 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:30:49 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:30:52 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:31:12 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:31:12 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:31:15 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:31:22 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:31:23 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:31:23 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:31:25 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:31:38 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:32:38 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:32:38 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:32:40 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:32:49 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:34:35 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:34:35 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:34:37 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:34:46 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:47:18 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:47:18 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:47:21 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:47:29 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:47:46 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:47:46 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:47:49 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:47:58 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:51:35 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:51:35 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:51:37 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:51:41 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:51:41 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:51:41 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:51:44 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:51:50 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:51:51 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:51:51 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:51:52 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:52:03 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:52:03 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:52:03 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:52:04 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:52:14 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:52:15 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:52:15 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:52:16 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:52:24 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:52:59 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:52:59 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:52:59 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:52:59 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:53:02 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:53:02 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:53:07 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:53:08 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:53:08 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:53:10 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:53:15 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:53:15 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:53:15 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:53:15 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:53:17 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:53:25 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:53:26 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:53:26 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:53:27 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:53:35 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:58:26 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:58:26 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:58:28 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:58:32 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:58:32 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:58:32 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:58:34 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:58:40 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:58:41 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:58:41 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:58:42 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:58:53 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:58:54 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:58:54 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:58:55 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:59:04 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 02:59:04 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 02:59:04 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 02:59:05 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 02:59:13 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 03:01:04 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 03:01:04 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 03:01:04 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 03:01:04 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 03:01:04 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 03:01:04 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 03:01:04 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 03:01:04 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 03:01:12 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 03:01:12 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 03:01:13 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 03:01:14 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 03:01:37 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 03:01:43 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 03:01:46 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 03:01:46 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 03:01:46 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 03:01:52 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 03:01:54 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 03:02:04 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 03:03:48 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 03:03:48 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 03:03:50 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 03:03:54 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 03:04:06 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 03:04:06 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 03:04:08 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 03:04:14 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 03:04:15 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 03:04:15 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 03:04:16 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 03:04:30 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 03:29:23 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 03:29:23 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 03:29:27 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 03:29:30 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 03:29:31 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 03:29:31 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 03:29:32 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 03:29:37 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 03:29:38 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 03:29:38 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 03:29:39 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 03:29:49 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 03:29:49 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 03:29:49 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 03:29:50 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 03:30:00 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 03:30:00 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 03:30:00 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 03:30:02 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 03:30:10 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 03:30:27 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 03:30:27 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 03:30:27 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 03:30:27 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 03:30:27 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 03:30:27 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 03:30:27 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 03:30:27 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 03:30:32 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 03:30:32 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 03:30:32 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 03:30:32 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 03:31:04 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 03:31:08 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 03:31:14 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 03:31:14 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser
+2026-05-03 03:31:14 INFO  org.RobustFramework.BaseTest.BaseTest - Reading browser from config: Chrome
+2026-05-03 03:31:14 INFO  org.RobustFramework.BaseTest.BaseTest - Initializing driver for browser: CHROME
+2026-05-03 03:31:18 INFO  org.RobustFramework.BaseTest.BaseTest - Browser launched and maximized
+2026-05-03 03:31:29 INFO  org.RobustFramework.BaseTest.BaseTest - Closing browser

@@ -1,0 +1,19 @@
+<suite parallel="classes" thread-count="5" name="All Test Suite">
+
+    <listeners>
+        <listener class-name="org.RobustFramework.Listeners.Listeners"/>
+        <listener class-name="org.RobustFramework.Listeners.RetryTransformer"/>
+    </listeners>
+
+    <test name="All Tests">
+
+        <classes>
+            <class name="org.RobustFramework.Tests.IncorrectLoginTest"/>
+            <class name="org.RobustFramework.Tests.LoginTest"/>
+            <class name="org.RobustFramework.Tests.ProductTest"/>
+            <class name="org.RobustFramework.Tests.UserRegistrationTest"/>
+        </classes>
+
+    </test>
+
+</suite>

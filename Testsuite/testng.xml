@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite  name="All Test Suite">
+    <listeners>
+        <listener class-name="org.RobustFramework.Listeners.Listeners"/>
+        <listener class-name="org.RobustFramework.Listeners.RetryTransformer"/>
+    </listeners>
+    <test thread-count="5"  name="C:/Users/Sachin/IdeaProjects/NewAutomationFramework">
+        <classes>
+            <class name="org.RobustFramework.Tests.IncorrectLoginTest">
+                <methods>
+                    <include name="IncorrectLoginTest"/>
+                </methods>
+            </class>
+            <class name="org.RobustFramework.Tests.LoginTest">
+                <methods>
+                    <include name="LogInTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Product Tests" thread-count="5">
+        <classes>
+            <class name="org.RobustFramework.Tests.ProductTest">
+                <methods>
+                    <include name="AddProductandVerify"/>
+                </methods>
+            </class>
+            <class name="org.RobustFramework.Tests.UserRegistrationTest">
+                <methods>
+                    <include name="RegisterDeleteUserTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
