@@ -5,132 +5,37 @@ The goal was to keep it simple, maintainable, and scalable while covering common
 
 ---
 
-## What’s implemented
+# Robust Automation Framework
 
-* Page Object Model (POM)
-* Data-driven testing using JSON
-* Thread-safe WebDriver using ThreadLocal
-* Explicit wait utilities
-* Extent Reports (with screenshots on failure)
-* Retry mechanism for flaky tests
-* Cross-browser support (Chrome, Edge, Firefox)
-* Headless execution support
-* TestNG-based execution
+UI Test Automation Framework built using **Java + Selenium + TestNG**, designed for scalability and maintainability.
 
 ---
 
-## Project structure
+## Tech Stack
 
-```id="struct1"
-BaseTest/         → Driver setup & teardown  
-DriverFactory/    → ThreadLocal driver management  
-PageObjects/      → All page classes  
-Tests/            → Test cases  
-Utilities/        → Waits, JSON reader, screenshots  
-Listeners/        → Reporting + retry logic  
-resources/Data/   → Test data (JSON)  
-```
-
----
-
-## Test data
-
-All test data is maintained in a single JSON file and separated by test type:
-
-```json id="json1"
-{
-  "LogInTestDDT": [...],
-  "IncorrectLoginTest": [...],
-  "LoginTest": [...],
-  "UserRegistrationTest": [...]
-}
-```
-
-Each test pulls only the data it needs using a DataProvider.
+- Java  
+- Selenium WebDriver  
+- TestNG  
+- Maven  
+- Extent Reports  
+- Log4j2  
+- JSON (Test Data)  
+- Excel Utilities  
 
 ---
 
-## Running tests
+## Key Features
 
-### Using TestNG XML
-
-Just run the `testng.xml` file.
-
-### Using Maven
-
-```bash id="run1"
-mvn clean test
-```
-
----
-
-## Parallel execution
-
-Parallel execution is supported through TestNG.
-Driver is managed using ThreadLocal to avoid conflicts.
+- Page Object Model (POM)
+- Centralized WebDriver management (DriverFactory)
+- Config-driven execution (`config.properties`)
+- Data-driven testing using JSON
+- Retry mechanism for flaky tests
+- TestNG Listeners integration
+- Extent HTML reporting
+- Screenshot capture on failure
+- Parallel execution support
 
 ---
 
-## Reports
-
-Extent reports are generated after execution.
-
-Location:
-
-```id="rep1"
-reports/index.html
-```
-
-Screenshots are captured automatically on failure.
-
----
-
-## Jenkins integration
-
-This framework can be directly plugged into Jenkins.
-
-### Basic setup:
-
-1. Create a new job (Freestyle or Pipeline)
-2. Connect your Git repository
-3. Add build step:
-
-```bash id="jen1"
-mvn clean test
-```
-
-4. (Optional) Archive reports:
-
-```
-reports/**
-```
-
-5. Run in headless mode for CI:
-
-```properties id="jen2"
-headless=true
-```
-
----
-
-## Notes
-
-* Driver is managed via ThreadLocal, so avoid using shared/static driver
-* Data is read from JSON → mapped in DataProvider
-* Explicit waits are centralized in utilities
-* Listener handles reporting and screenshots
-
----
-
-## Future improvements (planned)
-
-* Docker / Selenium Grid support
-* Allure reports
-* API testing integration
-* CI pipelines (GitHub Actions)
-
----
-
-## Author
-
-Sachin
+## Project Structure
