@@ -395,7 +395,4 @@ pipeline {
 ---
 
 ## Author
-
-
-
-Built with care as a production-ready automation template. Feel free to extend with additional page objects, test suites, or CI pipeline configuration.
+Sachin Ghanteppagol
