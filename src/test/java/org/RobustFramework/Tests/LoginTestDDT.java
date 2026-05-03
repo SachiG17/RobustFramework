@@ -23,7 +23,6 @@ public class LoginTestDDT extends BaseTest {
         loginPage.logIn(input.get("email"),input.get("password"));
         homePage.verifyLoggedIn();
         homePage.logOut();
-
     }
     @DataProvider
     public Object[][] getData() throws IOException {
