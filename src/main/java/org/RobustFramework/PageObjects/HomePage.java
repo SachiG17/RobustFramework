@@ -12,7 +12,7 @@ public class HomePage extends BasePage {
     }
 
     // Locators
-    private By loginBtn = By.linkText("Signup / Login");
+    private By loginBtn = By.cssSelector("a[href='/login']");
     private By loggedInText = By.xpath("//a[contains(normalize-space(.),'Logged in as')]");
     private By logoutBtn = By.linkText("Logout");
     private By continueBtn = By.linkText("Continue");
